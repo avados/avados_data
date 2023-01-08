@@ -5,5 +5,5 @@ date: 2023-01-05
 intro: Comment nous joindre
 ---
 
-# Par email 
-mailto:contact@avados.net
+# [Par email](mailto:contact@avados.net)
+
