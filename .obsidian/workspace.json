@@ -46,8 +46,8 @@
               "type": "markdown",
               "state": {
                 "file": "md/Construction du site.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -182,7 +182,9 @@
   "active": "e4f3bd404c98fea6",
   "lastOpenFiles": [
     "md/Mon premier post.md",
+    "md/django.png.md",
     "md/Construction du site.md",
+    "media/django.png",
     "contact.md",
     "README.md",
     "data/contact.md",
