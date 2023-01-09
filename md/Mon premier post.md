@@ -5,6 +5,6 @@ date: 2023-01-08
 intro: Le début de l'aventure 
 ---
 
-# [Par email](mailto:contact@avados.net)
+# 
 
 
