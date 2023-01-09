@@ -6,8 +6,10 @@ intro: Développement et mise en place du site
 ---
 
 # Contexte
-Il aurait été simple de créer un site 
+Il aurait été simple de créer un site en utilisant wordpress, mais je cherche à garder un pied dans la technique. 
+
 [Avados.net](avados.net) est développé en utilisant [Django](https://www.djangoproject.com/) et notamment le CMS [Wagtail](https://wagtail.org/).
+
 [Avados.net](avados.net) est hébérgé sur [Fly.io](https://fly.io/).
 ![[media/django.png]]
 
