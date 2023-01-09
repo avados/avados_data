@@ -11,8 +11,8 @@ intro: Développement et mise en place du site
 
 Ressources ayant aidé:
 - [Guide Django Fly.io](https://fly.io/docs/django/getting-started/existing/)
-- [Blog ](https://testdriven.io/blog/django-fly/)
-## Pourquoi ne pas avoir utilisé un générateur de site statique ?
+- [Blog De Nik Tomazic](https://testdriven.io/blog/django-fly/)
+- [Create wagtail pages programmatically](https://www.codista.com/en/blog/create-wagtail-pages-programmatically/)
 
 
 
