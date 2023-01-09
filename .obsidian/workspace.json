@@ -47,7 +47,7 @@
               "state": {
                 "file": "md/Construction du site.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
