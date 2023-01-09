@@ -9,7 +9,7 @@ intro: Développement et mise en place du site
 Il aurait été simple de créer un site 
 [Avados.net](avados.net) est développé en utilisant [Django](https://www.djangoproject.com/) et notamment le CMS [Wagtail](https://wagtail.org/).
 [Avados.net](avados.net) est hébérgé sur [Fly.io](https://fly.io/).
-![[md/django.png]]
+![[media/django.png]]
 
 Ressources ayant aidé:
 - [Guide Django Fly.io](https://fly.io/docs/django/getting-started/existing/)
