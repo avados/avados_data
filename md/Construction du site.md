@@ -14,6 +14,7 @@ Il aurait été simple de créer un site en utilisant wordpress, mais je cherche
 ![[media/django.png]]
 
 Ressources ayant aidé:
+
 - [Guide Django Fly.io](https://fly.io/docs/django/getting-started/existing/)
 - [Blog De Nik Tomazic](https://testdriven.io/blog/django-fly/)
 - [Create wagtail pages programmatically](https://www.codista.com/en/blog/create-wagtail-pages-programmatically/)
