@@ -50,9 +50,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e7776bf53b704d38",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "61a4759a6633081f",
@@ -194,10 +202,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e4f3bd404c98fea6",
+  "active": "e7776bf53b704d38",
   "lastOpenFiles": [
     "md/Mon premier post.md",
     "md/django.png.md",
