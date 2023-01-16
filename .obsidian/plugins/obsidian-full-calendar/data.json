@@ -7,7 +7,7 @@
     },
     {
       "type": "dailynote",
-      "color": "hsl( 254,  80%, calc( 68% - 3.8%))",
+      "color": "#f80d0d",
       "heading": "headingTruc"
     }
   ],

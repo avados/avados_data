@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/2023-01-16 dasdasdas.md",
+                "file": "2023-01-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "61a4759a6633081f",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar/2023-01-16 dasdasdas.md",
+                "file": "2023-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar/2023-01-16 dasdasdas.md",
+                "file": "2023-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calendar/2023-01-16 dasdasdas.md"
+                "file": "2023-01-17.md"
               }
             }
           }
@@ -197,17 +198,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fcecc9c4074be9cf",
+  "active": "1ae8f8c2907997ce",
   "lastOpenFiles": [
+    "2023-01-16.md",
+    "2023-01-17.md",
+    "calendar/2023-01-16 dasdasdas.md",
     "calendar/2023-01-17 dddddd.md",
     "calendar/(Every M) test).md",
     "README.md",
     "md/Mon premier post.md",
     "md/django.png.md",
     "md/Construction du site.md",
-    "media/django.png",
-    "contact.md",
-    "data/contact.md",
-    "data/README.md"
+    "media/django.png"
   ]
 }
