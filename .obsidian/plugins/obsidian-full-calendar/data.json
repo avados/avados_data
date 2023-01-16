@@ -4,6 +4,11 @@
       "type": "local",
       "color": "#0058e6",
       "directory": "calendar"
+    },
+    {
+      "type": "dailynote",
+      "color": "hsl( 254,  80%, calc( 68% - 3.8%))",
+      "heading": "headingTruc"
     }
   ],
   "defaultCalendar": 0,
