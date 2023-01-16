@@ -1,5 +1,11 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#0058e6",
+      "directory": "calendar"
+    }
+  ],
   "defaultCalendar": 0,
   "recursiveLocal": false,
   "firstDay": 1,
